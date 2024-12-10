@@ -1,0 +1,1 @@
+## Developed a computer vision system to detect helmets on motorcyclists and control traffic signals accordingly.Utilized OpenCV library in Python for image processing and object detection.Implemented machine learning algorithms for real-time analysis and decision making.Collaborated with a team to design and implement the project.
